@@ -1,0 +1,48 @@
+.column_container {
+	display: flex;
+}
+
+
+
+.column_container section {
+	flex: 1;
+	background-color: lightred;
+	border: 0.1rem solid;
+	padding: 1rem;
+}
+
+body {
+	background-image: url("../web/images/homePage.jpg");
+	
+	}
+
+p {
+	color: #93d1f2;
+
+}
+
+h2 {
+	color: #33acff;
+	}
+	
+table {
+	color: white;
+}
+
+h1 {
+	color: #33acff;
+	
+}
+
+footer {
+	display: block;
+	text-decoration: center;
+	color: lack;
+}
+
+ol {
+	color: black;
+}
+html {
+	color: black;
+}
