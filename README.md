@@ -2,9 +2,11 @@
 ---------------------------------------------
 Authored solely by: Eóin Finney (B00093420)
 ---------------------------------------------
-# This project is for matt smith's (dr-matt-smith) web development server-side class in ITB. 
+This project is for matt smith's (dr-matt-smith) web development server-side class in ITB, 2017. 
+
+-------------------------------------------------
 
 
-
-
-# TODO
+TODO: 
+1. Add a sort-of changelog into here
+2. Date changes made, i.e: started project 09/11/17, ended ??/??/??
