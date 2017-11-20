@@ -1,0 +1,14 @@
+#intro {
+  text-align: center;
+  margin: 1em;
+  }
+#intro h1 {
+  font-size: 4em;
+  color: #000000;
+  }
+.photo {
+  vertical-align: center;
+  text-align: left;
+  width: 100%;
+  max-width: 150px;
+  }
