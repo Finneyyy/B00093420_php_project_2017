@@ -4,10 +4,10 @@
   },
   "autoload":{
     "psr-4":{
-      "Itb\\":"src"
+      "EFProject\\":"src"
     }
   },
   "require": {
-    "twig/twig": "^2.0"
+    "twig/twig": "^2.4"
   }
 }
