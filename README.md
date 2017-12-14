@@ -7,6 +7,12 @@ This project is for matt smith's (dr-matt-smith) web development server-side cla
 -------------------------------------------------
 
 
-TODO: 
-1. Add a sort-of changelog into here
-2. Date changes made, i.e: started project 09/11/17, ended ??/??/??
+Changelog:
+-----------------
+ v.01:
+  Uploaded first basic version of the site. This included the vendor folder.
+  
+ ---
+ v.02:
+  Updated file directories and structure.
+  Added setup, views folders.
