@@ -76,7 +76,7 @@ class ProductRepository
 
     $stmt = $this->connection->prepare($sql);
 
-    //Start to bind, preferably without ropes
+    //Starts to bind, preferably without ropes
     $stmt->bindParam(':id', $id);
     $stmt->bindParam(':description', $description);
     $stmt->bindParam(':price', $price);
