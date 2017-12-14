@@ -9,7 +9,7 @@ namespace EFProject;
 
 {% block main %}
 	I am the about page!
-	
+
 	here are the modules:
 	{% for module in modules %}
 		<ul>
@@ -23,52 +23,4 @@ namespace EFProject;
 		<p>
 		(there are no modules)
 	{% endfor %}
-{% endblock %}	
-
-
-
-
-
-
-
-
-
-
-{# Everything below this line has to #}
-{# be moved to _template.html.twig #}
-
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Web - {{ homePage }} Home</title>
-	<style>
-		@import '../web/css/intro.css';
-		@import '../web/css/layout.css';
-		@import '../web/css/navbar.css';	
-	</style>
-	<div class="backImage">
-		<img src="../web/images/homePage.jpg">
-	</div>
-</head>
-
-<body>
-	<ul>
-		<li>
-			<a href="/" class="{% block homePageLinkStyle %}{% endblock %}">home page</a>
-		</li>
-		<li>
-			<a href="/index.php?action=about" class="{% block aboutPageLinkStyle %} {% endblock %}">about page</a>
-		</li>
-		+
-	</ul>
-	
-	
-	
-	
-	
-	
-	
-	<h1>Home Page</h1>
-	<p>Welcome to my website</p>
-</body>
+{% endblock %}

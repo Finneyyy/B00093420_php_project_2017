@@ -3,6 +3,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 
 use EFProject\ProductRepository;
 
+//have to create the database first
 $productRepository = new ProductRepository();
 
 $productRepository->dropTable();
