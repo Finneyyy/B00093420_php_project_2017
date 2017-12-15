@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Web - {{ homePage }} Home</title>
+	<title>Web - {{ pageTitle }} Home</title>
 	<style>
 		@import '../web/css/intro.css';
 		@import '../web/css/layout.css';
@@ -14,6 +14,18 @@
 </head>
 
 <body>
+	<label id="login">
+		<nav>
+			<ul id="login-navbar">
+				<span>Please log in - </span>&nbsp;
+				<span>Username: <input type="text" size="20" maxlength="20" name="Username" id="Username" required autofocus></span>
+
+			</ul>
+		</nav>
+
+
+
+
 	<ul>
 		<li>
 			<a href="/index.php?action=Home" class="{% block homePageLinkStyle %}{% endblock %}">home page</a>
