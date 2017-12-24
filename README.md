@@ -13,3 +13,7 @@ The **current** folder contains files that are (as of after 12pm, 14/12/17) bein
 ##### EDIT: Due to real life matters, the final version will be sometime before the new year, i.e: most likely 31st of December
 
 Signing off, for now.
+---
+Currently (on the night of the 24/12/17, running into Christmas Day), I'm troubleshooting this blasted project. It turns out, its a pain in the bollox. I'll be finished when I'm finished, and/or give up. 
+
+But not fully give up. I think when I'm done with it, I'll keep coming back to it. Maybe to add to it, maybe not.
