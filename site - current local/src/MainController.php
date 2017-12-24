@@ -16,7 +16,7 @@ class MainController
   {
 	$template = "home.html.twig";
 	$argsArray = ['pageTitle' => 'Home'];
-	$html = $this->twig->render();
+	$html = $this->twig->render($template, $argsArray);
 	print $html;
   }
   
@@ -26,8 +26,8 @@ class MainController
 	$argsArray = ['title' => 'About Page'];
 	$template = 'about';
 	
-	return $twig->render($template . '.html.twig', $argsArray);
-	
+	$html = $this->twig->render($template, $argsArray);
+	print $html;
   }
   
   

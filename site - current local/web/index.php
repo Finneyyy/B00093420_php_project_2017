@@ -1,8 +1,10 @@
 <?php
+namespace EFProject;
+
 //autoloader
 require_once __DIR__ . '/../vendor/autoload.php';
 
-namespace EFProject;
+
 
 $action = filter_input(INPUT_GET, 'action',FILTER_SANITISE_STRING);
 
