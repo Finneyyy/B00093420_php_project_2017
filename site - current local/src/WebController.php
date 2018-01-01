@@ -20,19 +20,22 @@ class WebController
 		$action = filter_input(INPUT_GET, 'action');
 		if (empty($action))
 		{
-			$actiuon = filter_input(INPUT_POST, 'action');
+			$action = filter_input(INPUT_POST, 'action');
 		}
 
 
 		switch($action)
 		{
 			case 'about':
-				$this->mainController->aboutAction;
+				$this->MainController->aboutAction;
 				break;
+
+			case 'place':
+			  $this->MainController->placeAction;
 
 			case 'home':
 			default:
-				$this->mainController->indexAction();
+				$this->MainController->indexAction();
 		}
 
 	}

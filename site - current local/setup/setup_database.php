@@ -8,8 +8,6 @@ $productRepository = new ProductRepository();
 
 $productRepository->dropProductTable();
 $productRepository->createProductTable();
-
-$productRepository->deleteAll();
 $productRepository->getAllFromProduct();
 
 $productRepository->insertIntoProduct('Hoodie', 25.00);

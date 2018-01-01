@@ -1,6 +1,8 @@
 <?php
 namespace EFProject;
 
+Use EFProject\Database;
+
 class ProductRepository
 {
   private $connection;
