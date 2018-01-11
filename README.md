@@ -17,3 +17,16 @@ Signing off, for now.
 Currently (on the night of the 24/12/17, running into Christmas Day), I'm troubleshooting this blasted project. It turns out, its a pain in the bollox. I'll be finished when I'm finished, and/or give up. 
 
 But not fully give up. I think when I'm done with it, I'll keep coming back to it. Maybe to add to it, maybe not.
+
+#### Done
+Turns out I've given up. Who'd would have guessed it? (Meself, btw). 
+---
+
+### Project Thoughts
+It was definitely a **lot** bigger and more complex than I thought it would be. I underestimated the amount of work I would have to do to complete the site, and it probably shows.
+
+Oh well. There's always next time. And by that, I mean the repeat in August.
+
+##### Signing off, for good
+I think...
+
