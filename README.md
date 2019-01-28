@@ -29,4 +29,5 @@ Oh well. There's always next time. And by that, I mean the repeat in August.
 
 ##### Signing off, for good
 I think...
-
+---
+##### EDIT (28/1/19): Project was abandoned long ago. Made repo public.
